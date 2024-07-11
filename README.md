@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction-
 
-Please Click [**here**](https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project) for the github repository. 
+Please click [**here**](https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project) for the github repository. 
 
 ### Team Members
 
